@@ -39,7 +39,7 @@ This project presents an intelligent attendance management system powered by adv
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/link--v1.png" width="22"/> Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nagaripavan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nagaripavan03)
 - 🐦 [Twitter](https://twitter.com/nagaripavan)
 - 🌐 [GitHub Profile](https://github.com/nagaripavan)
 
